@@ -1,2 +1,4 @@
 # JLambda-plus
-POJM, function as resource
+POJM, FAAR
+
+Cloud Programming Simplified: A Berkeley View on Serverless Computing
