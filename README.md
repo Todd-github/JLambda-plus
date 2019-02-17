@@ -17,5 +17,7 @@ XXX n2 = aFunction(...);
 XXX n3 = aBiFunction(n1, n2);
 ```
 Not only no *tf*, but also n_ has a class declaration XXX.
+
 3. FAAR: Function as a Resource. Every function called in the graphing processure will be allocated a URI according its method signature, class name, etc. A URI means you can locate it and trace every single function call in this solution and alter them if needed.
+
 4. Ship the code to data. Some functions in the solution is data related and there would be a large transport cost if they are deployed apart. We call those immovable function as anchor function, mostly because they hold big data. Other fuction that handle these datas should be shipped there and run in the same process with the anchor function.
