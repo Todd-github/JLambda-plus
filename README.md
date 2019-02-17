@@ -16,7 +16,7 @@ XXX n1 = aFunction(...);
 XXX n2 = aFunction(...);
 XXX n3 = aBiFunction(n1, n2);
 ```
-Not only no *tf*, but also n_ has a class declaration XXX.
+Not only no *tf*, but n_ has a class declaration XXX.
 
 3. FAAR: Function as a Resource. Every function called in the graphing processure will be allocated a URI according its method signature, class name, etc. A URI means you can locate it and trace every single function call in this solution and alter them if needed.
 
